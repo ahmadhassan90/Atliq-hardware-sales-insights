@@ -11,7 +11,7 @@ The dataset, provided by Atliq Hardware, has been meticulously cleaned and proce
 ## Project Files
 
 - `atliq_db.sql`: SQL script containing the cleaned data, including table creation and data insertion commands.
-- `Atliq Hardware Sales Report.twbx`: Tableau workbook featuring interactive and insightful visualizations.
+- `Atliq Hardware Sales Report.twb`: Tableau workbook featuring interactive and insightful visualizations.
 
 ## Requirements
 
@@ -59,3 +59,5 @@ This project provides a detailed analysis of sales performance, highlighting key
 ---
 
 We hope this project provides valuable insights and helps in driving informed decisions for Atliq Hardware. For any queries or further assistance, please feel free to reach out.
+
+
